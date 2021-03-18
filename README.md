@@ -1,3 +1,7 @@
+This is a mini version of Airbnb. Windbnb is built with 
+.[React](https://github.com/facebook/create-react-app)
+Users can search from the list of properties and filter base on the location and number of guest.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
