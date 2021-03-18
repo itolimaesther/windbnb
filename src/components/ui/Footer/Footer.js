@@ -12,8 +12,7 @@ function Footer() {
                     rel="noreferrer"
                 >
                     Esther Itolima
-                </a>{' '}
-                - devChallenges.io
+                </a>
             </p>
         </footer>
         </div>
